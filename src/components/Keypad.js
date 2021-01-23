@@ -2,7 +2,7 @@ import React from 'react';
 
 class Keypad extends React.Component{
   
-  handlePassword=()=>
+  handlePassword=()=> console.log('Entering password...')
   
   render() {
     return (
