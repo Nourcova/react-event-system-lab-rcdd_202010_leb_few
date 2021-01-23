@@ -1,9 +1,10 @@
-// Code Keypad Component Here
-class EyesOnMe extends React.Component{
+import React from 'react';
+
+class Keypad extends React.Component{
   
   render() {
     return (  );
   }
 }
 
-export default EyesOnMe;
+export default Keypad;
