@@ -1,7 +1,7 @@
 class EyesOnMe extends React.Component{
   
   handleFocus=()=> console.log ("Good!");
-  handleBlur=()=> console.log('Hey~ Eyes on me!')
+  handleBlur=()=> console.log('Hey~ Eyes on me!');
   
   render() {
     return (
